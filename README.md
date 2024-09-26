@@ -1,5 +1,10 @@
 # Sistema de Gerenciamento de Carros
 
+``` bash
+
+Primeiramente, uma agradecimento ao adm do PycodeBR, que proporcionou o conhecimento necessário para a criação desse projeto através do Django MASTER. Todos os créditos e direitos reservados a ele.
+```
+
 Um sistema desenvolvido em Django para o gerenciamento de carros, incluindo um front-end para interação do usuário.
 
 ## Funcionalidades
