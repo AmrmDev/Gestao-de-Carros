@@ -7,6 +7,12 @@ Primeiramente, uma agradecimento ao adm do PycodeBR, que proporcionou o conhecim
 
 Um sistema desenvolvido em Django para o gerenciamento de carros, incluindo um front-end para interação do usuário.
 
+
+## Desenvolvido Em
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
+
+
+
 ## Funcionalidades
 
 - Cadastro de carros (marca, modelo, ano, etc...)
