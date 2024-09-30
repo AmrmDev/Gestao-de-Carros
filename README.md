@@ -1,9 +1,7 @@
 # Sistema de Gerenciamento de Carros
 
-``` bash
-
 Primeiramente, uma agradecimento ao adm do PycodeBR, que proporcionou o conhecimento necessário para a criação desse projeto através do Django MASTER. Todos os créditos e direitos reservados a ele.
-```
+
 
 Um sistema desenvolvido em Django para o gerenciamento de carros, incluindo um front-end para interação do usuário.
 
@@ -23,7 +21,7 @@ Um sistema desenvolvido em Django para o gerenciamento de carros, incluindo um f
 ## Tecnologias Utilizadas
 
 - **Backend**: Django 4.x
-- **Frontend**: HTML, CSS, JavaScript (caso esteja usando algo mais específico, como Bootstrap ou React, especifique aqui)
+- **Frontend**: HTML, CSS, JavaScript 
 - **Banco de Dados**: SQLite (ou MySQL, PostgreSQL, etc.)
 
 
@@ -31,7 +29,7 @@ Um sistema desenvolvido em Django para o gerenciamento de carros, incluindo um f
 
 Antes de rodar o projeto, você precisará ter as seguintes ferramentas instaladas:
 
-- [Python 3.x](https://www.python.org/downloads/)
+- [Python 3.12.2](https://www.python.org/downloads/)
 - [Django 4.x](https://www.djangoproject.com/download/)
 - [Git](https://git-scm.com/)
 
